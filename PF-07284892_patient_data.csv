@@ -1,0 +1,121 @@
+STUDYID,USUBJID,AESEQ,AETERM,AEDECOD,AESER,AEOUT,AESDISAB,AESDTH,AESHOSP,AESLIFE,AESMIE,AESTDY,AEENDY,MHCAT,MHSCAT,MHTERM,Age,Sex,Race,Smoking_Status,Alcohol_Consumption,Dosage,Treatment_Duration
+STUDY_1,PF-07284892_P1,1,Nausea,Moderate,N,Recovered,Y,N,Y,N,N,71,72,Respiratory,Diabetes,Controlled,54,Female,Black,Non-Smoker,Yes,300,265
+STUDY_2,PF-07284892_P2,2,Cardiac Arrest,Mild,N,Recovered,N,N,N,Y,N,45,37,Cardiac,Diabetes,Uncontrolled,55,Female,White,Non-Smoker,Yes,200,352
+STUDY_3,PF-07284892_P3,3,Cardiac Arrest,Mild,N,Recovered,N,Y,N,N,N,98,106,Cardiac,Diabetes,Controlled,19,Male,Asian,Non-Smoker,Yes,300,330
+STUDY_4,PF-07284892_P4,4,Headache,Severe,N,Recovered,N,N,N,N,Y,97,13,Cardiac,Hypertension,Controlled,31,Male,Black,Non-Smoker,Yes,500,224
+STUDY_5,PF-07284892_P5,5,Seizure,Moderate,N,Recovered,N,N,Y,N,N,87,42,Respiratory,Hypertension,Controlled,29,Male,White,Smoker,No,100,55
+STUDY_6,PF-07284892_P6,6,Fatigue,Severe,N,Fatal,N,N,N,N,N,86,38,Cardiac,Diabetes,Controlled,67,Female,Black,Non-Smoker,Yes,500,224
+STUDY_7,PF-07284892_P7,7,Seizure,Moderate,N,Recovered,N,N,N,N,N,46,11,Neurological,Hypertension,Controlled,78,Male,Black,Smoker,No,500,60
+STUDY_8,PF-07284892_P8,8,Fatigue,Mild,N,Not Recovered,Y,N,Y,N,N,32,88,Gastrointestinal,Diabetes,Uncontrolled,74,Female,White,Non-Smoker,No,500,45
+STUDY_9,PF-07284892_P9,9,Seizure,Moderate,N,Recovered,Y,Y,N,N,N,22,53,Gastrointestinal,Hypertension,Controlled,81,Female,White,Non-Smoker,No,100,76
+STUDY_10,PF-07284892_P10,10,Headache,Mild,Y,Recovered,Y,N,N,N,N,3,14,Neurological,Hypertension,Uncontrolled,76,Male,Black,Smoker,Yes,500,241
+STUDY_11,PF-07284892_P11,11,Headache,Moderate,N,Recovered,N,N,N,N,N,83,48,Gastrointestinal,Epilepsy,Controlled,42,Female,White,Smoker,No,200,300
+STUDY_12,PF-07284892_P12,12,Nausea,Severe,N,Fatal,N,N,Y,N,N,5,95,Cardiac,Diabetes,Controlled,68,Male,White,Non-Smoker,No,500,194
+STUDY_13,PF-07284892_P13,13,Headache,Moderate,N,Not Recovered,N,Y,N,Y,N,33,25,Neurological,Hypertension,Controlled,58,Female,White,Non-Smoker,Yes,500,326
+STUDY_14,PF-07284892_P14,14,Headache,Moderate,N,Recovered,N,N,N,N,N,10,38,Gastrointestinal,Epilepsy,Uncontrolled,29,Male,Black,Non-Smoker,Yes,400,47
+STUDY_15,PF-07284892_P15,15,Cardiac Arrest,Moderate,N,Recovered,N,N,N,N,N,85,91,Gastrointestinal,Asthma,Controlled,76,Male,Hispanic,Smoker,Yes,400,31
+STUDY_16,PF-07284892_P16,16,Fatigue,Mild,N,Fatal,Y,N,N,N,N,18,37,Neurological,Diabetes,Uncontrolled,39,Female,Asian,Non-Smoker,No,100,58
+STUDY_17,PF-07284892_P17,17,Headache,Moderate,N,Recovered,N,N,N,N,N,39,119,Gastrointestinal,Diabetes,Uncontrolled,23,Male,White,Smoker,No,400,23
+STUDY_18,PF-07284892_P18,18,Fatigue,Mild,N,Recovered,N,N,Y,N,N,74,16,Cardiac,Asthma,Uncontrolled,31,Female,White,Smoker,No,100,69
+STUDY_19,PF-07284892_P19,19,Nausea,Severe,N,Recovered,N,N,Y,N,N,15,20,Cardiac,Epilepsy,Uncontrolled,22,Male,White,Non-Smoker,No,200,79
+STUDY_20,PF-07284892_P20,20,Fatigue,Moderate,N,Recovered,N,N,Y,N,N,76,89,Gastrointestinal,Diabetes,Controlled,63,Female,Black,Non-Smoker,Yes,500,273
+STUDY_21,PF-07284892_P21,21,Nausea,Mild,N,Recovered,N,N,Y,N,Y,88,47,Neurological,Diabetes,Uncontrolled,29,Female,White,Non-Smoker,No,100,300
+STUDY_22,PF-07284892_P22,22,Nausea,Mild,Y,Recovered,N,N,Y,N,N,5,110,Respiratory,Asthma,Uncontrolled,82,Female,White,Smoker,No,300,184
+STUDY_23,PF-07284892_P23,23,Cardiac Arrest,Mild,Y,Recovered,Y,N,Y,N,N,8,19,Cardiac,Epilepsy,Controlled,69,Female,White,Smoker,No,400,285
+STUDY_24,PF-07284892_P24,24,Seizure,Moderate,N,Not Recovered,N,N,N,N,N,93,116,Cardiac,Epilepsy,Controlled,37,Male,Black,Smoker,Yes,200,320
+STUDY_25,PF-07284892_P25,25,Fatigue,Mild,N,Recovered,N,N,Y,N,N,89,66,Neurological,Diabetes,Uncontrolled,43,Female,White,Non-Smoker,No,300,273
+STUDY_26,PF-07284892_P26,26,Seizure,Mild,Y,Fatal,Y,N,Y,N,Y,31,55,Gastrointestinal,Asthma,Controlled,35,Female,Asian,Smoker,Yes,400,244
+STUDY_27,PF-07284892_P27,27,Seizure,Moderate,N,Recovered,Y,N,Y,N,N,86,106,Neurological,Epilepsy,Controlled,62,Male,Asian,Non-Smoker,No,200,41
+STUDY_28,PF-07284892_P28,28,Cardiac Arrest,Mild,N,Recovered,N,N,N,N,N,61,22,Neurological,Epilepsy,Uncontrolled,49,Female,Asian,Smoker,Yes,300,36
+STUDY_29,PF-07284892_P29,29,Headache,Moderate,N,Recovered,N,N,N,N,N,55,13,Gastrointestinal,Diabetes,Controlled,84,Male,White,Non-Smoker,Yes,500,28
+STUDY_30,PF-07284892_P30,30,Seizure,Mild,N,Recovered,N,N,N,Y,N,65,9,Respiratory,Epilepsy,Controlled,32,Male,Asian,Non-Smoker,No,300,156
+STUDY_31,PF-07284892_P31,31,Seizure,Severe,N,Recovered,N,N,N,N,N,75,57,Respiratory,Diabetes,Uncontrolled,24,Female,White,Smoker,Yes,300,285
+STUDY_32,PF-07284892_P32,32,Headache,Moderate,N,Recovered,N,N,Y,N,N,30,82,Gastrointestinal,Hypertension,Controlled,83,Male,Black,Non-Smoker,No,400,215
+STUDY_33,PF-07284892_P33,33,Headache,Mild,N,Not Recovered,Y,N,N,N,N,48,85,Neurological,Hypertension,Controlled,77,Male,Black,Smoker,Yes,300,61
+STUDY_34,PF-07284892_P34,34,Cardiac Arrest,Mild,N,Not Recovered,Y,N,Y,N,N,96,9,Cardiac,Diabetes,Uncontrolled,49,Male,Hispanic,Non-Smoker,No,500,226
+STUDY_35,PF-07284892_P35,35,Nausea,Severe,N,Recovered,N,N,Y,N,N,2,63,Cardiac,Epilepsy,Controlled,81,Male,Hispanic,Non-Smoker,Yes,500,73
+STUDY_36,PF-07284892_P36,36,Nausea,Moderate,N,Recovered,N,N,Y,N,Y,61,111,Respiratory,Epilepsy,Uncontrolled,58,Male,White,Smoker,No,500,359
+STUDY_37,PF-07284892_P37,37,Nausea,Mild,Y,Not Recovered,N,N,N,N,N,26,25,Respiratory,Hypertension,Controlled,19,Female,Asian,Non-Smoker,No,200,190
+STUDY_38,PF-07284892_P38,38,Cardiac Arrest,Mild,N,Fatal,Y,N,Y,N,N,22,104,Gastrointestinal,Hypertension,Controlled,76,Female,Asian,Non-Smoker,Yes,100,250
+STUDY_39,PF-07284892_P39,39,Seizure,Moderate,N,Recovered,N,N,N,N,N,88,80,Gastrointestinal,Asthma,Controlled,72,Female,Asian,Non-Smoker,No,500,234
+STUDY_40,PF-07284892_P40,40,Nausea,Severe,N,Recovered,N,N,N,N,N,8,11,Gastrointestinal,Epilepsy,Controlled,81,Male,White,Smoker,No,400,54
+STUDY_41,PF-07284892_P41,41,Nausea,Severe,N,Recovered,N,N,N,N,N,99,6,Neurological,Diabetes,Controlled,42,Male,Asian,Non-Smoker,Yes,500,235
+STUDY_42,PF-07284892_P42,42,Fatigue,Moderate,N,Recovered,N,N,N,Y,N,18,49,Cardiac,Diabetes,Uncontrolled,55,Female,White,Non-Smoker,No,400,103
+STUDY_43,PF-07284892_P43,43,Headache,Mild,Y,Recovered,N,N,Y,N,N,35,40,Neurological,Diabetes,Uncontrolled,54,Male,Hispanic,Non-Smoker,Yes,100,155
+STUDY_44,PF-07284892_P44,44,Fatigue,Mild,Y,Recovered,N,N,Y,Y,N,76,63,Neurological,Epilepsy,Controlled,28,Female,Hispanic,Non-Smoker,No,200,3
+STUDY_45,PF-07284892_P45,45,Cardiac Arrest,Mild,N,Not Recovered,N,N,Y,N,N,47,109,Neurological,Hypertension,Uncontrolled,78,Female,White,Smoker,No,100,287
+STUDY_46,PF-07284892_P46,46,Cardiac Arrest,Severe,N,Recovered,N,N,N,N,N,86,81,Respiratory,Asthma,Controlled,56,Female,White,Non-Smoker,No,300,105
+STUDY_47,PF-07284892_P47,47,Headache,Severe,Y,Not Recovered,N,N,Y,N,N,42,39,Neurological,Asthma,Uncontrolled,57,Female,Asian,Non-Smoker,No,400,161
+STUDY_48,PF-07284892_P48,48,Cardiac Arrest,Mild,N,Recovered,N,N,Y,N,N,44,92,Respiratory,Epilepsy,Controlled,75,Male,White,Non-Smoker,No,100,134
+STUDY_49,PF-07284892_P49,49,Cardiac Arrest,Mild,N,Recovered,N,N,N,N,N,73,94,Cardiac,Epilepsy,Uncontrolled,63,Female,Asian,Smoker,Yes,100,18
+STUDY_50,PF-07284892_P50,50,Headache,Mild,N,Not Recovered,N,N,Y,Y,N,39,71,Gastrointestinal,Hypertension,Uncontrolled,27,Female,Asian,Non-Smoker,No,500,14
+STUDY_51,PF-07284892_P51,51,Seizure,Severe,Y,Recovered,N,N,N,N,N,24,103,Respiratory,Epilepsy,Controlled,75,Female,White,Non-Smoker,No,300,22
+STUDY_52,PF-07284892_P52,52,Nausea,Mild,Y,Recovered,N,N,Y,N,N,15,98,Cardiac,Asthma,Uncontrolled,41,Male,White,Non-Smoker,No,500,205
+STUDY_53,PF-07284892_P53,53,Cardiac Arrest,Moderate,N,Recovered,N,N,N,Y,N,69,95,Cardiac,Asthma,Uncontrolled,74,Male,White,Non-Smoker,Yes,400,227
+STUDY_54,PF-07284892_P54,54,Fatigue,Moderate,N,Recovered,N,N,N,N,N,21,95,Neurological,Epilepsy,Uncontrolled,77,Female,White,Non-Smoker,No,200,280
+STUDY_55,PF-07284892_P55,55,Fatigue,Mild,Y,Recovered,N,N,Y,Y,N,35,39,Cardiac,Diabetes,Uncontrolled,22,Female,Hispanic,Non-Smoker,No,500,307
+STUDY_56,PF-07284892_P56,56,Cardiac Arrest,Mild,N,Recovered,N,N,Y,N,N,29,31,Cardiac,Epilepsy,Uncontrolled,68,Male,Asian,Smoker,Yes,100,135
+STUDY_57,PF-07284892_P57,57,Seizure,Severe,N,Fatal,N,N,Y,N,N,90,34,Respiratory,Epilepsy,Uncontrolled,57,Male,Hispanic,Non-Smoker,No,500,277
+STUDY_58,PF-07284892_P58,58,Seizure,Mild,N,Not Recovered,Y,N,N,N,Y,97,110,Gastrointestinal,Asthma,Controlled,54,Male,White,Non-Smoker,Yes,200,265
+STUDY_59,PF-07284892_P59,59,Seizure,Moderate,N,Fatal,N,N,Y,Y,N,98,35,Respiratory,Epilepsy,Controlled,46,Male,White,Smoker,No,300,13
+STUDY_60,PF-07284892_P60,60,Nausea,Mild,Y,Recovered,Y,N,Y,N,N,87,12,Neurological,Hypertension,Uncontrolled,49,Male,Black,Non-Smoker,No,300,67
+STUDY_61,PF-07284892_P61,61,Headache,Severe,N,Not Recovered,Y,N,N,N,N,59,71,Neurological,Asthma,Controlled,84,Male,White,Smoker,Yes,300,252
+STUDY_62,PF-07284892_P62,62,Fatigue,Moderate,N,Recovered,N,N,N,N,N,92,26,Gastrointestinal,Asthma,Uncontrolled,66,Female,Asian,Non-Smoker,No,200,200
+STUDY_63,PF-07284892_P63,63,Seizure,Mild,N,Recovered,N,N,Y,N,N,84,33,Gastrointestinal,Hypertension,Controlled,74,Female,Hispanic,Non-Smoker,Yes,400,261
+STUDY_64,PF-07284892_P64,64,Headache,Moderate,Y,Not Recovered,Y,N,N,N,N,53,96,Respiratory,Epilepsy,Controlled,50,Male,White,Smoker,No,500,236
+STUDY_65,PF-07284892_P65,65,Cardiac Arrest,Severe,N,Recovered,N,N,Y,N,N,16,13,Respiratory,Diabetes,Controlled,82,Female,White,Smoker,No,100,207
+STUDY_66,PF-07284892_P66,66,Fatigue,Mild,N,Recovered,Y,N,N,N,N,69,7,Respiratory,Hypertension,Uncontrolled,36,Female,Asian,Non-Smoker,No,300,269
+STUDY_67,PF-07284892_P67,67,Fatigue,Moderate,N,Recovered,N,N,N,Y,N,1,116,Cardiac,Asthma,Controlled,72,Female,White,Smoker,No,400,212
+STUDY_68,PF-07284892_P68,68,Nausea,Severe,N,Recovered,N,N,N,N,N,84,8,Gastrointestinal,Asthma,Controlled,72,Male,White,Non-Smoker,No,300,304
+STUDY_69,PF-07284892_P69,69,Cardiac Arrest,Severe,Y,Not Recovered,N,N,Y,N,N,79,27,Neurological,Asthma,Controlled,29,Female,Black,Non-Smoker,No,300,340
+STUDY_70,PF-07284892_P70,70,Headache,Severe,N,Not Recovered,N,N,Y,Y,N,9,49,Respiratory,Hypertension,Uncontrolled,23,Female,Black,Smoker,No,100,250
+STUDY_71,PF-07284892_P71,71,Headache,Severe,N,Recovered,N,N,N,N,Y,83,62,Neurological,Diabetes,Controlled,58,Female,Asian,Smoker,No,300,192
+STUDY_72,PF-07284892_P72,72,Seizure,Severe,N,Recovered,N,N,N,N,Y,9,50,Respiratory,Diabetes,Uncontrolled,22,Male,Hispanic,Non-Smoker,No,200,354
+STUDY_73,PF-07284892_P73,73,Nausea,Severe,N,Recovered,N,N,Y,N,N,60,42,Gastrointestinal,Asthma,Controlled,75,Male,White,Non-Smoker,Yes,200,356
+STUDY_74,PF-07284892_P74,74,Fatigue,Severe,Y,Recovered,N,N,N,Y,N,48,94,Respiratory,Asthma,Uncontrolled,56,Female,White,Non-Smoker,No,300,200
+STUDY_75,PF-07284892_P75,75,Seizure,Mild,Y,Recovered,N,N,Y,Y,N,47,9,Cardiac,Diabetes,Controlled,79,Male,Black,Non-Smoker,Yes,200,324
+STUDY_76,PF-07284892_P76,76,Nausea,Mild,Y,Fatal,N,N,N,N,N,48,2,Gastrointestinal,Epilepsy,Controlled,79,Male,Asian,Smoker,Yes,200,181
+STUDY_77,PF-07284892_P77,77,Fatigue,Mild,Y,Recovered,N,N,Y,N,N,10,117,Cardiac,Hypertension,Uncontrolled,22,Male,White,Smoker,No,400,135
+STUDY_78,PF-07284892_P78,78,Fatigue,Moderate,N,Recovered,N,N,N,N,N,16,5,Gastrointestinal,Diabetes,Uncontrolled,24,Male,Hispanic,Non-Smoker,No,100,26
+STUDY_79,PF-07284892_P79,79,Nausea,Mild,N,Recovered,N,N,N,N,N,80,63,Respiratory,Asthma,Uncontrolled,68,Female,Asian,Non-Smoker,No,100,231
+STUDY_80,PF-07284892_P80,80,Nausea,Moderate,N,Recovered,N,N,N,Y,N,65,57,Cardiac,Hypertension,Controlled,45,Female,Hispanic,Non-Smoker,Yes,300,130
+STUDY_81,PF-07284892_P81,81,Headache,Mild,N,Recovered,N,N,Y,N,N,29,15,Respiratory,Diabetes,Uncontrolled,39,Male,Asian,Smoker,No,100,257
+STUDY_82,PF-07284892_P82,82,Nausea,Moderate,N,Recovered,N,N,N,N,N,81,64,Cardiac,Epilepsy,Uncontrolled,38,Male,Black,Smoker,No,200,292
+STUDY_83,PF-07284892_P83,83,Seizure,Severe,N,Recovered,N,N,Y,N,N,41,65,Cardiac,Epilepsy,Controlled,28,Female,Black,Non-Smoker,No,100,37
+STUDY_84,PF-07284892_P84,84,Fatigue,Mild,Y,Recovered,N,N,N,N,N,80,61,Neurological,Asthma,Controlled,61,Female,White,Smoker,Yes,300,206
+STUDY_85,PF-07284892_P85,85,Nausea,Mild,N,Not Recovered,N,N,N,N,N,82,62,Gastrointestinal,Hypertension,Controlled,52,Female,White,Non-Smoker,No,400,107
+STUDY_86,PF-07284892_P86,86,Seizure,Moderate,Y,Fatal,N,N,N,Y,N,54,97,Neurological,Asthma,Uncontrolled,86,Female,White,Non-Smoker,No,500,202
+STUDY_87,PF-07284892_P87,87,Cardiac Arrest,Moderate,N,Recovered,N,N,Y,N,N,73,46,Neurological,Hypertension,Controlled,73,Male,Asian,Non-Smoker,No,500,44
+STUDY_88,PF-07284892_P88,88,Headache,Mild,N,Recovered,N,N,N,N,N,97,48,Cardiac,Epilepsy,Controlled,80,Female,White,Smoker,Yes,500,212
+STUDY_89,PF-07284892_P89,89,Seizure,Mild,Y,Recovered,N,N,Y,N,N,99,16,Cardiac,Hypertension,Controlled,76,Male,Black,Smoker,No,200,33
+STUDY_90,PF-07284892_P90,90,Nausea,Mild,N,Recovered,N,N,N,Y,N,34,85,Gastrointestinal,Hypertension,Controlled,80,Female,Asian,Non-Smoker,Yes,300,312
+STUDY_91,PF-07284892_P91,91,Headache,Moderate,N,Recovered,N,N,N,N,N,96,48,Respiratory,Hypertension,Controlled,61,Female,White,Non-Smoker,No,400,121
+STUDY_92,PF-07284892_P92,92,Seizure,Mild,N,Recovered,N,N,N,N,N,84,29,Respiratory,Epilepsy,Controlled,59,Female,Asian,Non-Smoker,No,100,288
+STUDY_93,PF-07284892_P93,93,Headache,Moderate,N,Recovered,N,N,N,N,N,11,22,Respiratory,Diabetes,Uncontrolled,59,Female,White,Non-Smoker,No,300,31
+STUDY_94,PF-07284892_P94,94,Seizure,Severe,N,Recovered,Y,N,N,N,N,38,56,Respiratory,Hypertension,Controlled,42,Female,Hispanic,Smoker,Yes,500,317
+STUDY_95,PF-07284892_P95,95,Cardiac Arrest,Severe,N,Recovered,N,N,Y,N,N,98,30,Gastrointestinal,Hypertension,Uncontrolled,85,Female,Black,Smoker,Yes,400,258
+STUDY_96,PF-07284892_P96,96,Cardiac Arrest,Moderate,N,Not Recovered,N,N,Y,N,N,89,92,Neurological,Epilepsy,Uncontrolled,43,Female,Hispanic,Smoker,No,400,52
+STUDY_97,PF-07284892_P97,97,Nausea,Mild,Y,Not Recovered,N,N,N,Y,N,66,40,Gastrointestinal,Diabetes,Controlled,73,Female,Asian,Non-Smoker,No,400,97
+STUDY_98,PF-07284892_P98,98,Nausea,Mild,Y,Not Recovered,Y,N,N,N,Y,57,27,Gastrointestinal,Asthma,Controlled,59,Male,White,Non-Smoker,No,100,101
+STUDY_99,PF-07284892_P99,99,Seizure,Moderate,Y,Not Recovered,N,N,N,Y,N,92,39,Gastrointestinal,Diabetes,Uncontrolled,68,Female,Hispanic,Non-Smoker,No,100,159
+STUDY_100,PF-07284892_P100,100,Fatigue,Mild,N,Recovered,Y,N,Y,N,N,58,90,Gastrointestinal,Diabetes,Controlled,23,Female,Asian,Non-Smoker,Yes,200,210
+STUDY_101,PF-07284892_P101,101,Seizure,Severe,N,Not Recovered,N,N,N,N,N,56,30,Gastrointestinal,Hypertension,Controlled,89,Female,Black,Smoker,No,100,299
+STUDY_102,PF-07284892_P102,102,Headache,Severe,Y,Recovered,N,N,N,N,Y,46,11,Respiratory,Asthma,Controlled,86,Female,Hispanic,Non-Smoker,No,500,152
+STUDY_103,PF-07284892_P103,103,Headache,Moderate,N,Recovered,N,N,N,N,N,70,83,Cardiac,Asthma,Uncontrolled,83,Male,Asian,Smoker,Yes,200,275
+STUDY_104,PF-07284892_P104,104,Seizure,Severe,Y,Recovered,N,N,N,N,N,46,80,Cardiac,Asthma,Uncontrolled,31,Male,Asian,Non-Smoker,No,400,107
+STUDY_105,PF-07284892_P105,105,Seizure,Moderate,Y,Recovered,Y,N,Y,N,N,73,93,Respiratory,Asthma,Uncontrolled,71,Female,White,Non-Smoker,No,200,63
+STUDY_106,PF-07284892_P106,106,Headache,Moderate,Y,Fatal,N,N,Y,N,N,30,20,Respiratory,Hypertension,Controlled,64,Female,Hispanic,Smoker,No,300,148
+STUDY_107,PF-07284892_P107,107,Cardiac Arrest,Mild,N,Recovered,N,N,Y,N,N,99,30,Respiratory,Hypertension,Controlled,30,Female,White,Non-Smoker,Yes,400,57
+STUDY_108,PF-07284892_P108,108,Seizure,Severe,N,Recovered,N,N,Y,N,N,41,76,Gastrointestinal,Asthma,Uncontrolled,80,Female,White,Smoker,Yes,500,359
+STUDY_109,PF-07284892_P109,109,Seizure,Moderate,Y,Recovered,N,N,N,N,N,54,51,Respiratory,Epilepsy,Uncontrolled,32,Male,White,Non-Smoker,No,300,263
+STUDY_110,PF-07284892_P110,110,Headache,Severe,N,Not Recovered,N,N,N,N,N,32,85,Neurological,Diabetes,Uncontrolled,33,Male,White,Non-Smoker,No,500,138
+STUDY_111,PF-07284892_P111,111,Seizure,Severe,N,Recovered,N,N,Y,N,Y,5,53,Respiratory,Asthma,Uncontrolled,56,Male,White,Smoker,Yes,500,65
+STUDY_112,PF-07284892_P112,112,Headache,Moderate,Y,Recovered,N,N,Y,N,Y,6,23,Cardiac,Diabetes,Uncontrolled,82,Male,White,Non-Smoker,No,400,55
+STUDY_113,PF-07284892_P113,113,Nausea,Mild,Y,Recovered,N,N,N,N,N,38,41,Neurological,Asthma,Uncontrolled,87,Male,Black,Smoker,No,300,1
+STUDY_114,PF-07284892_P114,114,Seizure,Moderate,N,Recovered,N,N,Y,N,N,6,23,Cardiac,Asthma,Uncontrolled,83,Male,White,Smoker,Yes,200,188
+STUDY_115,PF-07284892_P115,115,Headache,Moderate,N,Recovered,N,N,N,N,N,80,86,Cardiac,Diabetes,Controlled,88,Male,White,Non-Smoker,Yes,500,244
+STUDY_116,PF-07284892_P116,116,Cardiac Arrest,Mild,N,Recovered,N,N,Y,N,N,74,110,Gastrointestinal,Epilepsy,Uncontrolled,31,Male,White,Non-Smoker,Yes,300,343
+STUDY_117,PF-07284892_P117,117,Nausea,Moderate,Y,Not Recovered,Y,N,Y,N,N,19,51,Neurological,Epilepsy,Uncontrolled,47,Male,Black,Non-Smoker,No,100,3
+STUDY_118,PF-07284892_P118,118,Fatigue,Mild,N,Recovered,N,N,N,N,N,41,71,Gastrointestinal,Epilepsy,Controlled,75,Male,White,Non-Smoker,No,400,284
+STUDY_119,PF-07284892_P119,119,Nausea,Mild,N,Recovered,N,Y,N,N,N,86,94,Neurological,Epilepsy,Uncontrolled,54,Male,White,Non-Smoker,No,200,132
+STUDY_120,PF-07284892_P120,120,Nausea,Mild,N,Recovered,N,N,N,N,N,77,104,Neurological,Epilepsy,Controlled,42,Male,Hispanic,Non-Smoker,Yes,500,176

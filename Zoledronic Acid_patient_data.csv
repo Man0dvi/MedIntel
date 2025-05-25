@@ -1,0 +1,42 @@
+STUDYID,USUBJID,AESEQ,AETERM,AEDECOD,AESER,AEOUT,AESDISAB,AESDTH,AESHOSP,AESLIFE,AESMIE,AESTDY,AEENDY,MHCAT,MHSCAT,MHTERM,Age,Sex,Race,Smoking_Status,Alcohol_Consumption,Dosage,Treatment_Duration
+StudyZol1,Patient001,1,Fatigue,Fatigue,No,Resolved,No,No,No,No,No,5,12,Cardiac,Hypertension,I10,62,Male,White,Former Smoker,Light,100 mg,28 days
+StudyZol1,Patient002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Endocrine,Diabetes Mellitus,E11.9,78,Female,Black,Never Smoker,None,150 mg,42 days
+StudyZol1,Patient003,1,Nausea,Nausea,No,Resolved,No,No,No,No,No,3,7,Respiratory,COPD,J44.9,65,Male,White,Current Smoker,Moderate,50 mg,21 days
+StudyZol1,Patient004,1,Anemia,Anemia,Yes,Recovering,No,No,Yes,No,Yes,15,NA,NA,NA,NA,70,Female,Asian,Never Smoker,Light,100 mg,28 days
+StudyZol1,Patient005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cardiac,Atrial Fibrillation,I48,82,Male,White,Former Smoker,None,150 mg,42 days
+StudyZol1,Patient006,1,Vomiting,Vomiting,No,Resolved,No,No,No,No,No,8,10,Gastrointestinal,GERD,K21.9,58,Female,Hispanic,Never Smoker,Light,50 mg,21 days
+StudyZol1,Patient007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Renal,Chronic Kidney Disease,N18.9,72,Male,Black,Former Smoker,None,100 mg,28 days
+StudyZol1,Patient008,1,Diarrhea,Diarrhea,No,Resolved,No,No,No,No,No,6,9,NA,NA,NA,60,Female,White,Current Smoker,Moderate,150 mg,42 days
+StudyZol1,Patient009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Respiratory,Asthma,J45.909,45,Male,Asian,Never Smoker,Light,50 mg,21 days
+StudyZol1,Patient010,1,Neutropenia,Neutropenia,Yes,Recovering,No,No,Yes,No,Yes,12,NA,NA,NA,NA,68,Female,Hispanic,Former Smoker,None,100 mg,28 days
+StudyZol1,Patient011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cardiac,Coronary Artery Disease,I25.10,75,Male,White,Never Smoker,Light,150 mg,42 days
+StudyZol1,Patient012,1,Fatigue,Fatigue,No,Resolved,No,No,No,No,No,4,10,Endocrine,Hypothyroidism,E03.9,63,Female,Black,Former Smoker,None,50 mg,21 days
+StudyZol1,Patient013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,55,Male,Asian,Current Smoker,Moderate,100 mg,28 days
+StudyZol1,Patient014,1,Vomiting,Vomiting,No,Resolved,No,No,No,No,No,7,11,Gastrointestinal,Irritable Bowel Syndrome,K58.9,48,Female,White,Never Smoker,Light,150 mg,42 days
+StudyZol1,Patient015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Renal,Kidney Stones,N20.0,67,Male,Hispanic,Former Smoker,None,50 mg,21 days
+StudyZol1,Patient016,1,Diarrhea,Diarrhea,No,Resolved,No,No,No,No,No,5,8,NA,NA,NA,71,Female,Asian,Current Smoker,Moderate,100 mg,28 days
+StudyZol1,Patient017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Respiratory,Bronchitis,J20.9,59,Male,White,Never Smoker,Light,150 mg,42 days
+StudyZol1,Patient018,1,Nausea,Nausea,No,Resolved,No,No,No,No,No,2,5,Gastrointestinal,Gastritis,K29.70,64,Female,Black,Former Smoker,None,50 mg,21 days
+StudyZol1,Patient019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,79,Male,Hispanic,Current Smoker,Moderate,100 mg,28 days
+StudyZol1,Patient020,1,Anemia,Anemia,Yes,Recovering,No,No,Yes,No,Yes,10,NA,Cardiac,Heart Failure,I50.9,81,Female,Asian,Never Smoker,Light,150 mg,42 days
+Study123,Patient001,1,Nausea,Nausea,No,Resolved,No,No,No,No,No,5,7,Cardiac,Hypertension,I10,62,Male,White,Former Smoker,Light,100 mg,28 days
+Study123,Patient002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Respiratory,COPD,J44,78,Male,Black,Current Smoker,Moderate,150 mg,42 days
+Study123,Patient003,1,Fatigue,Fatigue,No,Recovering,No,No,No,No,No,10,14,Endocrine,Diabetes Mellitus,E11,65,Female,Asian,Never Smoker,None,50 mg,21 days
+Study123,Patient004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,58,Female,Hispanic,Former Smoker,Light,100 mg,28 days
+Study123,Patient005,1,Vomiting,Vomiting,No,Resolved,No,No,No,No,No,7,9,Cardiac,Atrial Fibrillation,I48,72,Male,White,Never Smoker,Moderate,150 mg,42 days
+Study123,Patient006,1,Diarrhea,Diarrhoea,No,Resolved,No,No,No,No,No,3,5,Respiratory,Asthma,J45,49,Female,Black,Current Smoker,Heavy,50 mg,21 days
+Study123,Patient007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Endocrine,Hypothyroidism,E03,68,Female,Asian,Never Smoker,None,100 mg,28 days
+Study123,Patient008,1,Neutropenia,Neutropenia,Yes,Recovering,No,No,Yes,No,Yes,12,20,Cardiac,Heart Failure,I50,75,Male,Hispanic,Former Smoker,Light,150 mg,42 days
+Study123,Patient009,1,Anemia,Anaemia,Yes,Recovering,No,No,Yes,No,Yes,15,25,Respiratory,Pulmonary Fibrosis,J84,60,Male,White,Current Smoker,Moderate,50 mg,21 days
+Study123,Patient010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Endocrine,Hyperthyroidism,E05,55,Female,Black,Never Smoker,Heavy,100 mg,28 days
+Study123,Patient011,1,Nausea,Nausea,No,Resolved,No,No,No,No,No,6,8,Cardiac,Arrhythmia,I49,70,Male,Asian,Former Smoker,None,150 mg,42 days
+Study123,Patient012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Respiratory,Bronchiectasis,J47,63,Female,Hispanic,Current Smoker,Light,50 mg,21 days
+Study123,Patient013,1,Fatigue,Fatigue,No,Recovering,No,No,No,No,No,9,12,Endocrine,Diabetes Insipidus,E23,51,Male,White,Never Smoker,Moderate,100 mg,28 days
+Study123,Patient014,1,Vomiting,Vomiting,No,Resolved,No,No,No,No,No,4,6,Cardiac,Cardiomyopathy,I42,79,Female,Black,Former Smoker,Heavy,150 mg,42 days
+Study123,Patient015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Respiratory,Cystic Fibrosis,E84,44,Male,Asian,Current Smoker,None,50 mg,21 days
+Study123,Patient016,1,Diarrhea,Diarrhoea,No,Resolved,No,No,No,No,No,2,4,Endocrine,Polycystic Ovary Syndrome,E28,38,Female,Hispanic,Never Smoker,Light,100 mg,28 days
+Study123,Patient017,1,Neutropenia,Neutropenia,Yes,Recovering,No,No,Yes,No,Yes,14,22,NA,NA,NA,66,Male,White,Former Smoker,Moderate,150 mg,42 days
+Study123,Patient018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cardiac,Peripheral Artery Disease,I70,73,Female,Black,Current Smoker,Heavy,50 mg,21 days
+Study123,Patient019,1,Anemia,Anaemia,Yes,Recovering,No,No,Yes,No,Yes,16,26,Respiratory,Sarcoidosis,D86,59,Female,Asian,Never Smoker,None,100 mg,28 days
+Study123,Patient020,1,Nausea,Nausea,No,Resolved,No,No,No,No,No,8,10,Endocrine,Cushing's Syndrome,E24,64,Male,Hispanic,Former Smoker,Light,150 mg,42 days
+ZOL456,Patient001,1,Fatigue,Fatigue,No,Recovering,No,No,No,No,No,5,12,Cardiac,Arrhythmia,Atrial fibrillation,68,Female,White,Former Smoker,Light,100 mg,28 days

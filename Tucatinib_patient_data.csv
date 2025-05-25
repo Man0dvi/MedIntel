@@ -1,0 +1,151 @@
+STUDYID,USUBJID,AESEQ,AETERM,AEDECOD,AESER,AEOUT,AESDISAB,AESDTH,AESHOSP,AESLIFE,AESMIE,AESTDY,AEENDY,MHCAT,MHSCAT,MHTERM,Age,Sex,Race,Smoking_Status,Alcohol_Consumption,Dosage,Treatment_Duration
+STUDY_1,Tucatinib_P1,1,Seizure,Moderate,N,Not Recovered,N,N,Y,N,N,4,56,Gastrointestinal,Hypertension,Controlled,60,Female,Black,Smoker,No,300,164
+STUDY_2,Tucatinib_P2,2,Nausea,Severe,Y,Recovered,N,N,N,N,N,16,35,Neurological,Epilepsy,Uncontrolled,25,Female,White,Non-Smoker,No,200,133
+STUDY_3,Tucatinib_P3,3,Seizure,Moderate,Y,Recovered,Y,N,Y,N,N,81,12,Cardiac,Epilepsy,Uncontrolled,81,Female,Black,Non-Smoker,No,400,279
+STUDY_4,Tucatinib_P4,4,Headache,Mild,Y,Not Recovered,N,N,Y,N,N,88,63,Respiratory,Epilepsy,Controlled,37,Male,White,Smoker,No,400,118
+STUDY_5,Tucatinib_P5,5,Cardiac Arrest,Severe,N,Not Recovered,N,N,Y,N,N,6,97,Neurological,Hypertension,Controlled,41,Male,Asian,Non-Smoker,Yes,500,299
+STUDY_6,Tucatinib_P6,6,Nausea,Mild,N,Recovered,N,N,Y,N,N,52,49,Neurological,Hypertension,Controlled,19,Male,White,Non-Smoker,Yes,300,142
+STUDY_7,Tucatinib_P7,7,Seizure,Severe,Y,Fatal,N,N,N,N,N,7,3,Respiratory,Epilepsy,Controlled,77,Female,Asian,Non-Smoker,Yes,400,356
+STUDY_8,Tucatinib_P8,8,Cardiac Arrest,Mild,Y,Not Recovered,Y,N,Y,N,N,80,63,Respiratory,Hypertension,Uncontrolled,29,Female,Asian,Non-Smoker,Yes,500,108
+STUDY_9,Tucatinib_P9,9,Nausea,Moderate,N,Recovered,N,N,N,N,N,36,21,Neurological,Hypertension,Uncontrolled,58,Male,White,Non-Smoker,Yes,400,169
+STUDY_10,Tucatinib_P10,10,Headache,Severe,N,Recovered,Y,N,Y,N,Y,34,58,Neurological,Epilepsy,Uncontrolled,37,Male,White,Non-Smoker,No,500,171
+STUDY_11,Tucatinib_P11,11,Nausea,Moderate,N,Fatal,Y,N,Y,N,N,66,87,Respiratory,Diabetes,Uncontrolled,51,Male,White,Non-Smoker,No,200,13
+STUDY_12,Tucatinib_P12,12,Seizure,Mild,N,Recovered,N,N,N,N,N,64,105,Gastrointestinal,Diabetes,Uncontrolled,20,Female,Black,Non-Smoker,No,300,237
+STUDY_13,Tucatinib_P13,13,Nausea,Severe,N,Recovered,N,N,N,N,N,87,108,Cardiac,Hypertension,Controlled,69,Female,White,Non-Smoker,No,200,314
+STUDY_14,Tucatinib_P14,14,Cardiac Arrest,Moderate,N,Not Recovered,N,N,Y,Y,Y,85,32,Respiratory,Hypertension,Controlled,78,Female,Black,Non-Smoker,Yes,500,286
+STUDY_15,Tucatinib_P15,15,Headache,Moderate,N,Recovered,N,N,N,N,N,20,17,Cardiac,Asthma,Controlled,20,Male,Black,Non-Smoker,No,500,259
+STUDY_16,Tucatinib_P16,16,Headache,Moderate,N,Recovered,N,N,Y,N,N,25,24,Gastrointestinal,Hypertension,Controlled,36,Male,White,Smoker,Yes,500,110
+STUDY_17,Tucatinib_P17,17,Fatigue,Mild,N,Recovered,N,Y,Y,Y,N,63,61,Neurological,Diabetes,Controlled,71,Female,Black,Non-Smoker,No,200,125
+STUDY_18,Tucatinib_P18,18,Cardiac Arrest,Mild,N,Recovered,N,N,Y,N,N,89,86,Gastrointestinal,Hypertension,Controlled,44,Female,Asian,Non-Smoker,No,200,179
+STUDY_19,Tucatinib_P19,19,Fatigue,Moderate,N,Recovered,Y,N,Y,N,N,51,89,Respiratory,Asthma,Controlled,69,Female,Hispanic,Non-Smoker,No,300,260
+STUDY_20,Tucatinib_P20,20,Headache,Severe,N,Recovered,N,N,N,N,N,35,34,Respiratory,Epilepsy,Controlled,35,Male,Asian,Non-Smoker,Yes,200,363
+STUDY_21,Tucatinib_P21,21,Cardiac Arrest,Moderate,Y,Fatal,N,N,Y,N,N,75,74,Gastrointestinal,Diabetes,Controlled,51,Male,Black,Non-Smoker,No,100,61
+STUDY_22,Tucatinib_P22,22,Cardiac Arrest,Moderate,Y,Fatal,N,N,N,N,N,74,107,Neurological,Asthma,Uncontrolled,36,Male,Black,Smoker,Yes,400,10
+STUDY_23,Tucatinib_P23,23,Nausea,Severe,N,Not Recovered,N,N,Y,N,N,2,17,Respiratory,Asthma,Controlled,55,Female,White,Non-Smoker,No,400,70
+STUDY_24,Tucatinib_P24,24,Seizure,Moderate,N,Recovered,N,N,Y,N,N,56,76,Cardiac,Epilepsy,Uncontrolled,22,Female,Black,Smoker,Yes,200,26
+STUDY_25,Tucatinib_P25,25,Fatigue,Severe,Y,Recovered,N,N,Y,N,N,80,106,Cardiac,Asthma,Controlled,37,Female,White,Smoker,Yes,300,355
+STUDY_26,Tucatinib_P26,26,Fatigue,Moderate,N,Recovered,Y,N,Y,N,N,17,32,Respiratory,Hypertension,Controlled,77,Male,White,Smoker,No,400,228
+STUDY_27,Tucatinib_P27,27,Seizure,Mild,N,Recovered,N,N,N,Y,N,43,99,Neurological,Epilepsy,Uncontrolled,47,Female,Asian,Smoker,No,400,263
+STUDY_28,Tucatinib_P28,28,Cardiac Arrest,Severe,N,Recovered,N,N,N,N,Y,56,37,Gastrointestinal,Epilepsy,Controlled,42,Male,Black,Smoker,Yes,500,27
+STUDY_29,Tucatinib_P29,29,Cardiac Arrest,Moderate,Y,Recovered,N,N,N,N,N,29,63,Neurological,Epilepsy,Uncontrolled,52,Male,White,Non-Smoker,No,400,44
+STUDY_30,Tucatinib_P30,30,Seizure,Severe,Y,Recovered,N,N,N,N,N,47,45,Neurological,Asthma,Controlled,45,Female,White,Non-Smoker,No,100,314
+STUDY_31,Tucatinib_P31,31,Fatigue,Severe,N,Not Recovered,Y,N,N,N,N,6,14,Gastrointestinal,Hypertension,Uncontrolled,51,Female,Asian,Non-Smoker,Yes,200,49
+STUDY_32,Tucatinib_P32,32,Fatigue,Mild,Y,Recovered,N,N,Y,N,N,40,28,Neurological,Epilepsy,Controlled,78,Female,Black,Smoker,Yes,300,166
+STUDY_33,Tucatinib_P33,33,Seizure,Mild,N,Fatal,N,N,N,N,N,2,98,Neurological,Epilepsy,Controlled,39,Female,White,Smoker,Yes,500,280
+STUDY_34,Tucatinib_P34,34,Seizure,Severe,N,Recovered,N,N,Y,N,N,68,104,Gastrointestinal,Hypertension,Uncontrolled,72,Male,Asian,Non-Smoker,No,100,211
+STUDY_35,Tucatinib_P35,35,Cardiac Arrest,Moderate,Y,Recovered,N,N,Y,N,N,42,60,Gastrointestinal,Asthma,Uncontrolled,53,Male,Hispanic,Non-Smoker,No,500,129
+STUDY_36,Tucatinib_P36,36,Nausea,Moderate,Y,Recovered,N,N,Y,N,N,55,50,Gastrointestinal,Epilepsy,Controlled,51,Female,Hispanic,Non-Smoker,Yes,500,98
+STUDY_37,Tucatinib_P37,37,Headache,Mild,N,Recovered,N,N,N,N,N,96,57,Respiratory,Asthma,Uncontrolled,79,Female,White,Non-Smoker,Yes,300,341
+STUDY_38,Tucatinib_P38,38,Nausea,Moderate,N,Recovered,N,N,N,N,N,65,108,Cardiac,Hypertension,Controlled,71,Male,Asian,Non-Smoker,No,300,208
+STUDY_39,Tucatinib_P39,39,Fatigue,Mild,Y,Recovered,N,N,N,N,N,26,58,Respiratory,Diabetes,Controlled,63,Male,White,Non-Smoker,No,500,95
+STUDY_40,Tucatinib_P40,40,Cardiac Arrest,Moderate,N,Recovered,N,N,N,N,N,38,50,Respiratory,Diabetes,Uncontrolled,47,Male,Asian,Non-Smoker,No,200,278
+STUDY_41,Tucatinib_P41,41,Cardiac Arrest,Severe,N,Recovered,N,N,N,N,N,68,119,Neurological,Epilepsy,Uncontrolled,58,Male,Hispanic,Non-Smoker,No,100,12
+STUDY_42,Tucatinib_P42,42,Nausea,Mild,N,Not Recovered,N,N,Y,Y,N,64,13,Cardiac,Asthma,Controlled,71,Female,White,Non-Smoker,No,500,328
+STUDY_43,Tucatinib_P43,43,Headache,Moderate,N,Recovered,N,N,N,N,Y,74,24,Respiratory,Asthma,Uncontrolled,19,Male,Black,Non-Smoker,No,500,360
+STUDY_44,Tucatinib_P44,44,Cardiac Arrest,Moderate,N,Recovered,N,N,N,N,N,31,23,Respiratory,Epilepsy,Controlled,24,Male,Black,Non-Smoker,No,100,131
+STUDY_45,Tucatinib_P45,45,Fatigue,Mild,N,Recovered,N,N,Y,N,Y,92,36,Cardiac,Asthma,Uncontrolled,82,Male,Hispanic,Non-Smoker,No,400,103
+STUDY_46,Tucatinib_P46,46,Seizure,Mild,N,Fatal,N,Y,Y,N,N,38,33,Gastrointestinal,Hypertension,Uncontrolled,73,Female,Asian,Non-Smoker,No,300,257
+STUDY_47,Tucatinib_P47,47,Fatigue,Moderate,N,Recovered,N,N,N,Y,N,33,89,Gastrointestinal,Epilepsy,Uncontrolled,64,Female,Black,Non-Smoker,No,200,293
+STUDY_48,Tucatinib_P48,48,Cardiac Arrest,Severe,Y,Recovered,N,N,N,N,N,64,82,Cardiac,Diabetes,Uncontrolled,66,Male,Asian,Smoker,No,200,25
+STUDY_49,Tucatinib_P49,49,Headache,Moderate,Y,Recovered,Y,N,N,N,N,43,82,Respiratory,Diabetes,Uncontrolled,69,Male,White,Non-Smoker,No,100,19
+STUDY_50,Tucatinib_P50,50,Cardiac Arrest,Mild,N,Recovered,N,N,Y,N,N,82,83,Respiratory,Hypertension,Uncontrolled,36,Male,White,Non-Smoker,No,100,223
+STUDY_51,Tucatinib_P51,51,Seizure,Mild,Y,Recovered,N,N,Y,N,Y,98,42,Gastrointestinal,Diabetes,Uncontrolled,73,Male,White,Non-Smoker,No,400,212
+STUDY_52,Tucatinib_P52,52,Headache,Moderate,Y,Recovered,N,N,N,N,N,95,8,Cardiac,Epilepsy,Controlled,67,Male,Hispanic,Non-Smoker,Yes,200,128
+STUDY_53,Tucatinib_P53,53,Fatigue,Moderate,N,Not Recovered,Y,Y,N,N,N,16,115,Neurological,Asthma,Uncontrolled,51,Female,Asian,Smoker,No,200,105
+STUDY_54,Tucatinib_P54,54,Seizure,Moderate,N,Recovered,N,N,Y,Y,N,42,31,Neurological,Asthma,Controlled,52,Female,White,Smoker,No,100,287
+STUDY_55,Tucatinib_P55,55,Seizure,Severe,N,Not Recovered,N,N,N,N,N,99,92,Respiratory,Epilepsy,Uncontrolled,61,Male,White,Smoker,Yes,400,235
+STUDY_56,Tucatinib_P56,56,Fatigue,Moderate,N,Recovered,N,N,N,N,N,32,85,Gastrointestinal,Diabetes,Uncontrolled,28,Female,White,Non-Smoker,Yes,100,56
+STUDY_57,Tucatinib_P57,57,Seizure,Moderate,N,Recovered,Y,N,N,N,N,99,72,Cardiac,Diabetes,Controlled,45,Female,White,Non-Smoker,No,500,181
+STUDY_58,Tucatinib_P58,58,Fatigue,Moderate,Y,Not Recovered,Y,N,N,N,N,22,87,Neurological,Hypertension,Uncontrolled,75,Male,White,Non-Smoker,No,100,206
+STUDY_59,Tucatinib_P59,59,Nausea,Mild,N,Recovered,N,N,N,N,N,35,46,Gastrointestinal,Epilepsy,Controlled,63,Female,Asian,Non-Smoker,No,300,257
+STUDY_60,Tucatinib_P60,60,Nausea,Mild,N,Recovered,Y,N,N,Y,N,49,40,Respiratory,Diabetes,Controlled,59,Male,White,Non-Smoker,No,400,239
+STUDY_61,Tucatinib_P61,61,Fatigue,Moderate,N,Not Recovered,N,N,N,N,N,36,35,Respiratory,Hypertension,Uncontrolled,58,Female,White,Smoker,No,100,80
+STUDY_62,Tucatinib_P62,62,Headache,Moderate,N,Recovered,N,N,Y,N,N,88,109,Neurological,Epilepsy,Controlled,34,Male,Black,Non-Smoker,No,100,301
+STUDY_63,Tucatinib_P63,63,Fatigue,Moderate,N,Recovered,N,N,N,N,N,84,28,Gastrointestinal,Epilepsy,Controlled,60,Male,White,Non-Smoker,Yes,200,82
+STUDY_64,Tucatinib_P64,64,Nausea,Severe,N,Not Recovered,N,N,N,N,N,19,79,Respiratory,Hypertension,Controlled,27,Male,Black,Non-Smoker,No,200,27
+STUDY_65,Tucatinib_P65,65,Nausea,Moderate,N,Fatal,N,N,N,N,N,18,2,Neurological,Asthma,Controlled,84,Male,White,Smoker,No,100,320
+STUDY_66,Tucatinib_P66,66,Nausea,Mild,Y,Not Recovered,N,N,Y,Y,N,63,21,Respiratory,Epilepsy,Uncontrolled,81,Female,White,Non-Smoker,No,400,272
+STUDY_67,Tucatinib_P67,67,Nausea,Mild,N,Recovered,Y,N,N,N,N,62,1,Neurological,Asthma,Uncontrolled,29,Male,White,Non-Smoker,Yes,200,263
+STUDY_68,Tucatinib_P68,68,Nausea,Moderate,N,Recovered,N,N,N,Y,N,1,33,Cardiac,Diabetes,Controlled,21,Male,White,Non-Smoker,No,100,55
+STUDY_69,Tucatinib_P69,69,Fatigue,Severe,N,Recovered,N,N,Y,N,N,61,57,Neurological,Asthma,Controlled,54,Male,Black,Non-Smoker,Yes,100,55
+STUDY_70,Tucatinib_P70,70,Seizure,Severe,N,Recovered,N,N,N,N,N,69,55,Neurological,Asthma,Controlled,58,Male,Black,Non-Smoker,No,500,308
+STUDY_71,Tucatinib_P71,71,Seizure,Mild,N,Recovered,N,N,N,N,N,1,38,Cardiac,Hypertension,Controlled,29,Male,Black,Non-Smoker,No,100,305
+STUDY_72,Tucatinib_P72,72,Fatigue,Moderate,Y,Recovered,N,N,N,Y,N,88,49,Neurological,Hypertension,Uncontrolled,74,Female,Asian,Non-Smoker,Yes,500,270
+STUDY_73,Tucatinib_P73,73,Cardiac Arrest,Severe,N,Fatal,N,N,N,N,N,58,16,Cardiac,Hypertension,Controlled,38,Male,Black,Smoker,Yes,500,213
+STUDY_74,Tucatinib_P74,74,Cardiac Arrest,Moderate,N,Recovered,Y,N,N,N,N,56,15,Respiratory,Diabetes,Uncontrolled,87,Female,Asian,Non-Smoker,Yes,300,64
+STUDY_75,Tucatinib_P75,75,Cardiac Arrest,Moderate,N,Recovered,N,N,Y,N,N,57,59,Neurological,Hypertension,Uncontrolled,85,Female,Black,Non-Smoker,No,100,261
+STUDY_76,Tucatinib_P76,76,Headache,Mild,Y,Recovered,Y,N,N,N,N,61,66,Gastrointestinal,Epilepsy,Uncontrolled,23,Male,Black,Non-Smoker,Yes,300,7
+STUDY_77,Tucatinib_P77,77,Seizure,Moderate,Y,Not Recovered,N,N,N,Y,N,63,37,Cardiac,Hypertension,Controlled,23,Male,Asian,Smoker,No,200,361
+STUDY_78,Tucatinib_P78,78,Headache,Moderate,N,Recovered,Y,N,N,N,N,41,103,Respiratory,Asthma,Uncontrolled,38,Male,White,Non-Smoker,No,500,256
+STUDY_79,Tucatinib_P79,79,Seizure,Moderate,N,Fatal,N,N,N,N,N,56,113,Cardiac,Diabetes,Uncontrolled,54,Female,Asian,Non-Smoker,Yes,200,202
+STUDY_80,Tucatinib_P80,80,Nausea,Severe,N,Recovered,N,N,Y,N,N,86,99,Gastrointestinal,Diabetes,Uncontrolled,28,Female,Hispanic,Smoker,No,300,5
+STUDY_81,Tucatinib_P81,81,Cardiac Arrest,Mild,N,Recovered,Y,N,Y,N,N,82,65,Neurological,Diabetes,Controlled,43,Female,Black,Non-Smoker,No,200,244
+STUDY_82,Tucatinib_P82,82,Fatigue,Severe,N,Recovered,N,N,N,N,N,55,64,Respiratory,Diabetes,Uncontrolled,35,Female,Black,Non-Smoker,Yes,300,310
+STUDY_83,Tucatinib_P83,83,Seizure,Moderate,N,Recovered,N,N,Y,N,N,79,85,Cardiac,Asthma,Controlled,49,Female,White,Non-Smoker,No,500,225
+STUDY_84,Tucatinib_P84,84,Cardiac Arrest,Severe,N,Recovered,Y,Y,N,N,N,83,48,Cardiac,Diabetes,Controlled,70,Male,White,Smoker,Yes,300,233
+STUDY_85,Tucatinib_P85,85,Cardiac Arrest,Severe,Y,Not Recovered,Y,N,N,N,N,77,32,Neurological,Asthma,Controlled,48,Female,Hispanic,Non-Smoker,Yes,400,217
+STUDY_86,Tucatinib_P86,86,Nausea,Mild,N,Not Recovered,Y,N,N,N,Y,55,76,Respiratory,Asthma,Uncontrolled,38,Female,White,Non-Smoker,No,500,178
+STUDY_87,Tucatinib_P87,87,Fatigue,Severe,N,Fatal,Y,N,N,Y,N,47,26,Cardiac,Epilepsy,Uncontrolled,54,Male,White,Non-Smoker,No,300,47
+STUDY_88,Tucatinib_P88,88,Seizure,Moderate,N,Recovered,N,N,N,N,N,20,48,Cardiac,Epilepsy,Controlled,69,Female,White,Non-Smoker,No,500,196
+STUDY_89,Tucatinib_P89,89,Headache,Mild,Y,Not Recovered,N,N,N,N,N,23,44,Cardiac,Asthma,Controlled,83,Male,Hispanic,Non-Smoker,No,100,316
+STUDY_90,Tucatinib_P90,90,Nausea,Moderate,N,Recovered,N,N,N,Y,N,81,90,Neurological,Epilepsy,Uncontrolled,55,Female,Black,Non-Smoker,Yes,200,4
+STUDY_91,Tucatinib_P91,91,Nausea,Severe,N,Recovered,N,N,Y,N,N,97,81,Cardiac,Asthma,Uncontrolled,78,Female,Asian,Smoker,No,200,156
+STUDY_92,Tucatinib_P92,92,Cardiac Arrest,Severe,N,Recovered,N,N,N,N,N,21,38,Cardiac,Epilepsy,Controlled,81,Female,White,Non-Smoker,No,500,360
+STUDY_93,Tucatinib_P93,93,Fatigue,Severe,Y,Recovered,N,N,Y,N,Y,59,48,Gastrointestinal,Diabetes,Controlled,36,Female,Black,Smoker,No,500,276
+STUDY_94,Tucatinib_P94,94,Fatigue,Severe,Y,Recovered,N,N,Y,N,N,96,62,Neurological,Hypertension,Uncontrolled,32,Male,Hispanic,Smoker,No,400,163
+STUDY_95,Tucatinib_P95,95,Headache,Mild,N,Recovered,N,N,Y,N,N,42,75,Cardiac,Asthma,Controlled,48,Male,White,Non-Smoker,No,100,220
+STUDY_96,Tucatinib_P96,96,Seizure,Moderate,N,Not Recovered,N,N,Y,Y,N,31,72,Neurological,Hypertension,Controlled,49,Male,Hispanic,Smoker,Yes,400,194
+STUDY_97,Tucatinib_P97,97,Cardiac Arrest,Moderate,Y,Recovered,N,N,Y,N,N,84,91,Gastrointestinal,Asthma,Controlled,54,Female,White,Smoker,No,300,296
+STUDY_98,Tucatinib_P98,98,Nausea,Severe,N,Recovered,N,N,N,Y,Y,29,84,Respiratory,Hypertension,Uncontrolled,86,Male,Asian,Smoker,No,100,334
+STUDY_99,Tucatinib_P99,99,Fatigue,Mild,Y,Fatal,Y,N,N,Y,N,19,73,Cardiac,Diabetes,Uncontrolled,86,Female,White,Smoker,No,500,178
+STUDY_100,Tucatinib_P100,100,Nausea,Moderate,N,Recovered,Y,N,N,Y,N,35,72,Respiratory,Asthma,Controlled,75,Female,Asian,Non-Smoker,No,300,181
+STUDY_101,Tucatinib_P101,101,Seizure,Severe,N,Recovered,N,N,N,N,N,88,79,Neurological,Diabetes,Controlled,32,Male,White,Smoker,No,400,245
+STUDY_102,Tucatinib_P102,102,Seizure,Moderate,Y,Recovered,N,Y,Y,Y,N,51,94,Respiratory,Epilepsy,Controlled,22,Male,Black,Non-Smoker,Yes,300,319
+STUDY_103,Tucatinib_P103,103,Nausea,Moderate,N,Recovered,N,N,Y,N,Y,95,114,Cardiac,Hypertension,Uncontrolled,68,Male,Asian,Non-Smoker,Yes,100,225
+STUDY_104,Tucatinib_P104,104,Fatigue,Moderate,N,Recovered,N,N,N,Y,N,57,90,Gastrointestinal,Hypertension,Controlled,20,Female,Asian,Non-Smoker,No,200,237
+STUDY_105,Tucatinib_P105,105,Cardiac Arrest,Moderate,Y,Fatal,N,N,N,N,Y,77,1,Respiratory,Epilepsy,Uncontrolled,78,Female,Asian,Smoker,No,400,310
+STUDY_106,Tucatinib_P106,106,Nausea,Mild,N,Recovered,Y,N,N,N,N,76,58,Neurological,Epilepsy,Uncontrolled,74,Female,Asian,Smoker,No,400,7
+STUDY_107,Tucatinib_P107,107,Headache,Severe,N,Not Recovered,Y,N,N,N,N,43,38,Respiratory,Hypertension,Controlled,75,Female,White,Non-Smoker,Yes,300,233
+STUDY_108,Tucatinib_P108,108,Nausea,Mild,N,Recovered,N,N,Y,Y,N,34,40,Gastrointestinal,Asthma,Controlled,23,Female,White,Smoker,No,300,346
+STUDY_109,Tucatinib_P109,109,Nausea,Moderate,Y,Recovered,Y,N,N,N,N,23,20,Respiratory,Epilepsy,Controlled,57,Male,Asian,Non-Smoker,No,300,332
+STUDY_110,Tucatinib_P110,110,Nausea,Severe,N,Fatal,N,N,Y,N,N,8,81,Neurological,Asthma,Uncontrolled,50,Male,White,Non-Smoker,No,500,288
+STUDY_111,Tucatinib_P111,111,Nausea,Moderate,N,Recovered,N,N,N,N,N,54,25,Respiratory,Epilepsy,Controlled,78,Female,White,Non-Smoker,Yes,100,69
+STUDY_112,Tucatinib_P112,112,Nausea,Moderate,Y,Recovered,N,N,Y,N,N,28,101,Gastrointestinal,Asthma,Uncontrolled,71,Female,Black,Non-Smoker,No,500,216
+STUDY_113,Tucatinib_P113,113,Headache,Moderate,N,Not Recovered,N,N,Y,N,N,8,84,Respiratory,Diabetes,Controlled,47,Male,White,Non-Smoker,No,500,126
+STUDY_114,Tucatinib_P114,114,Seizure,Severe,Y,Recovered,Y,N,N,N,N,13,1,Respiratory,Epilepsy,Uncontrolled,48,Female,Black,Smoker,No,100,173
+STUDY_115,Tucatinib_P115,115,Cardiac Arrest,Severe,Y,Recovered,N,N,Y,N,N,3,31,Gastrointestinal,Epilepsy,Controlled,45,Male,White,Smoker,Yes,200,24
+STUDY_116,Tucatinib_P116,116,Nausea,Mild,N,Recovered,N,N,N,N,N,95,55,Cardiac,Diabetes,Controlled,38,Female,Black,Non-Smoker,Yes,100,317
+STUDY_117,Tucatinib_P117,117,Fatigue,Moderate,Y,Fatal,Y,N,Y,N,N,28,110,Respiratory,Hypertension,Controlled,35,Male,White,Non-Smoker,No,400,340
+STUDY_118,Tucatinib_P118,118,Headache,Severe,N,Recovered,N,Y,Y,N,N,74,111,Respiratory,Asthma,Uncontrolled,30,Female,Black,Non-Smoker,Yes,500,47
+STUDY_119,Tucatinib_P119,119,Cardiac Arrest,Severe,N,Recovered,Y,N,N,N,N,79,36,Gastrointestinal,Epilepsy,Uncontrolled,19,Female,White,Non-Smoker,No,500,82
+STUDY_120,Tucatinib_P120,120,Nausea,Mild,Y,Recovered,N,N,N,N,N,56,53,Respiratory,Hypertension,Uncontrolled,37,Male,Black,Non-Smoker,Yes,500,125
+STUDY_121,Tucatinib_P121,121,Fatigue,Moderate,Y,Not Recovered,N,N,N,Y,N,53,118,Cardiac,Asthma,Uncontrolled,81,Male,Hispanic,Non-Smoker,No,400,38
+STUDY_122,Tucatinib_P122,122,Cardiac Arrest,Mild,Y,Recovered,N,N,N,N,N,7,62,Gastrointestinal,Epilepsy,Uncontrolled,62,Male,White,Non-Smoker,Yes,100,329
+STUDY_123,Tucatinib_P123,123,Seizure,Mild,Y,Not Recovered,N,N,Y,N,N,90,65,Cardiac,Asthma,Uncontrolled,65,Male,Black,Non-Smoker,Yes,100,88
+STUDY_124,Tucatinib_P124,124,Cardiac Arrest,Mild,Y,Not Recovered,N,N,N,Y,N,21,67,Neurological,Diabetes,Controlled,60,Female,Asian,Non-Smoker,No,300,109
+STUDY_125,Tucatinib_P125,125,Nausea,Mild,Y,Recovered,N,N,Y,Y,N,95,56,Cardiac,Diabetes,Uncontrolled,18,Female,Black,Non-Smoker,No,300,351
+STUDY_126,Tucatinib_P126,126,Cardiac Arrest,Moderate,N,Recovered,N,Y,N,N,N,69,16,Neurological,Diabetes,Uncontrolled,20,Female,Asian,Smoker,No,400,364
+STUDY_127,Tucatinib_P127,127,Headache,Severe,N,Recovered,N,Y,N,N,N,27,100,Respiratory,Diabetes,Controlled,69,Male,Asian,Non-Smoker,No,500,219
+STUDY_128,Tucatinib_P128,128,Fatigue,Moderate,Y,Not Recovered,N,N,N,Y,N,80,57,Respiratory,Asthma,Uncontrolled,38,Female,Asian,Smoker,No,300,216
+STUDY_129,Tucatinib_P129,129,Seizure,Mild,Y,Recovered,N,N,Y,N,N,43,16,Respiratory,Hypertension,Controlled,83,Female,Asian,Non-Smoker,Yes,400,298
+STUDY_130,Tucatinib_P130,130,Seizure,Moderate,N,Recovered,Y,N,N,Y,N,55,94,Cardiac,Epilepsy,Uncontrolled,87,Female,Black,Non-Smoker,No,400,112
+STUDY_131,Tucatinib_P131,131,Headache,Moderate,Y,Recovered,N,N,Y,N,N,86,4,Gastrointestinal,Diabetes,Uncontrolled,43,Female,Asian,Smoker,No,200,145
+STUDY_132,Tucatinib_P132,132,Cardiac Arrest,Mild,N,Recovered,N,Y,N,N,N,9,31,Cardiac,Asthma,Controlled,51,Male,Asian,Non-Smoker,No,400,348
+STUDY_133,Tucatinib_P133,133,Nausea,Severe,N,Recovered,N,N,N,N,N,9,78,Gastrointestinal,Asthma,Controlled,55,Female,White,Non-Smoker,No,300,158
+STUDY_134,Tucatinib_P134,134,Seizure,Mild,Y,Not Recovered,N,N,N,N,Y,92,40,Neurological,Diabetes,Controlled,34,Female,Asian,Smoker,No,300,93
+STUDY_135,Tucatinib_P135,135,Fatigue,Moderate,N,Fatal,N,N,N,N,N,49,71,Respiratory,Epilepsy,Uncontrolled,44,Male,White,Smoker,No,400,91
+STUDY_136,Tucatinib_P136,136,Fatigue,Mild,N,Recovered,N,N,N,N,N,64,107,Respiratory,Hypertension,Uncontrolled,88,Female,White,Smoker,Yes,200,161
+STUDY_137,Tucatinib_P137,137,Fatigue,Moderate,N,Recovered,N,N,N,Y,N,95,117,Respiratory,Diabetes,Uncontrolled,50,Male,Hispanic,Smoker,No,400,313
+STUDY_138,Tucatinib_P138,138,Seizure,Severe,N,Recovered,N,N,Y,N,N,49,35,Respiratory,Asthma,Uncontrolled,51,Female,White,Non-Smoker,Yes,200,214
+STUDY_139,Tucatinib_P139,139,Headache,Severe,Y,Fatal,Y,N,Y,N,N,58,42,Gastrointestinal,Epilepsy,Controlled,75,Male,White,Smoker,No,200,225
+STUDY_140,Tucatinib_P140,140,Cardiac Arrest,Severe,N,Recovered,N,N,N,Y,N,41,86,Cardiac,Asthma,Controlled,61,Male,Asian,Smoker,No,200,49
+STUDY_141,Tucatinib_P141,141,Headache,Severe,N,Recovered,N,N,Y,N,N,73,6,Neurological,Asthma,Uncontrolled,27,Female,White,Non-Smoker,No,300,173
+STUDY_142,Tucatinib_P142,142,Seizure,Mild,Y,Not Recovered,N,N,N,N,N,84,50,Cardiac,Hypertension,Controlled,71,Female,White,Non-Smoker,No,100,336
+STUDY_143,Tucatinib_P143,143,Cardiac Arrest,Mild,N,Not Recovered,N,N,N,N,N,2,101,Cardiac,Asthma,Controlled,32,Male,Hispanic,Smoker,Yes,200,110
+STUDY_144,Tucatinib_P144,144,Headache,Severe,N,Not Recovered,Y,N,N,N,N,38,87,Cardiac,Asthma,Controlled,48,Male,White,Non-Smoker,No,500,145
+STUDY_145,Tucatinib_P145,145,Headache,Severe,N,Fatal,N,N,N,N,N,97,97,Gastrointestinal,Hypertension,Uncontrolled,20,Male,Black,Non-Smoker,No,200,255
+STUDY_146,Tucatinib_P146,146,Seizure,Severe,N,Recovered,N,N,Y,N,N,84,41,Cardiac,Hypertension,Uncontrolled,44,Female,White,Non-Smoker,No,500,126
+STUDY_147,Tucatinib_P147,147,Seizure,Mild,N,Recovered,N,N,N,Y,N,96,116,Cardiac,Asthma,Controlled,44,Male,Asian,Non-Smoker,Yes,500,274
+STUDY_148,Tucatinib_P148,148,Nausea,Moderate,N,Recovered,Y,N,N,N,N,67,67,Neurological,Diabetes,Controlled,45,Male,White,Non-Smoker,No,400,301
+STUDY_149,Tucatinib_P149,149,Headache,Severe,N,Not Recovered,N,N,N,N,N,89,17,Cardiac,Diabetes,Controlled,83,Male,White,Non-Smoker,Yes,200,26
+STUDY_150,Tucatinib_P150,150,Cardiac Arrest,Mild,N,Recovered,Y,N,N,N,N,14,55,Respiratory,Hypertension,Uncontrolled,51,Male,Black,Smoker,No,300,38

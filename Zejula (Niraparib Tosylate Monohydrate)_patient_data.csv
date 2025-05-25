@@ -1,0 +1,37 @@
+STUDYID,USUBJID,AESEQ,AETERM,AEDECOD,AESER,AEOUT,AESDISAB,AESDTH,AESHOSP,AESLIFE,AESMIE,AESTDY,AEENDY,MHCAT,MHSCAT,MHTERM,Age,Sex,Race,Smoking_Status,Alcohol_Consumption,Dosage,Treatment_Duration
+Study123,Patient001,1,Nausea,Nausea,No,Resolved,No,No,No,No,No,5,7,Cardiac,Hypertension,Hypertension,62,Female,White,Never Smoker,Light,100 mg,28 days
+Study123,Patient002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Respiratory,Asthma,Asthma,78,Male,Black,Former Smoker,Moderate,150 mg,42 days
+Study123,Patient003,1,Fatigue,Fatigue,No,Recovering,No,No,No,No,No,10,14,Endocrine,Diabetes Mellitus,Diabetes Mellitus,65,Female,Asian,Never Smoker,None,50 mg,21 days
+Study123,Patient004,1,Vomiting,Vomiting,No,Resolved,No,No,No,No,No,3,5,NA,NA,NA,58,Male,Hispanic,Current Smoker,Heavy,100 mg,28 days
+Study123,Patient005,1,Neutropenia,Neutropenia,Yes,Recovering,No,No,Yes,No,Yes,15,25,Cardiac,Atrial Fibrillation,Atrial Fibrillation,70,Female,White,Former Smoker,Light,150 mg,42 days
+Study123,Patient006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Respiratory,COPD,Chronic Obstructive Pulmonary Disease,68,Male,Black,Current Smoker,Moderate,50 mg,21 days
+Study123,Patient007,1,Anemia,Anemia,No,Recovering,No,No,No,No,No,8,12,Endocrine,Hypothyroidism,Hypothyroidism,72,Female,Asian,Never Smoker,None,100 mg,28 days
+Study123,Patient008,1,Diarrhea,Diarrhoea,No,Resolved,No,No,No,No,No,6,9,NA,NA,NA,55,Male,Hispanic,Former Smoker,Heavy,150 mg,42 days
+Study123,Patient009,1,Nausea,Nausea,No,Resolved,No,No,No,No,No,4,6,Cardiac,Coronary Artery Disease,Coronary Artery Disease,69,Female,White,Current Smoker,Light,50 mg,21 days
+Study123,Patient010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Respiratory,Bronchitis,Bronchitis,75,Male,Black,Former Smoker,Moderate,100 mg,28 days
+Study123,Patient011,1,Fatigue,Fatigue,No,Recovering,No,No,No,No,No,9,13,Endocrine,Hyperlipidemia,Hyperlipidemia,60,Female,Asian,Never Smoker,None,150 mg,42 days
+Study123,Patient012,1,Vomiting,Vomiting,No,Resolved,No,No,No,No,No,2,4,NA,NA,NA,57,Male,Hispanic,Current Smoker,Heavy,50 mg,21 days
+Study123,Patient013,1,Neutropenia,Neutropenia,Yes,Recovering,No,No,Yes,No,Yes,16,26,Cardiac,Heart Failure,Heart Failure,71,Female,White,Former Smoker,Light,100 mg,28 days
+Study123,Patient014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Respiratory,Pneumonia,Pneumonia,67,Male,Black,Current Smoker,Moderate,150 mg,42 days
+Study123,Patient015,1,Anemia,Anemia,No,Recovering,No,No,No,No,No,7,11,Endocrine,Thyroid Nodule,Thyroid Nodule,73,Female,Asian,Never Smoker,None,50 mg,21 days
+Study123,Patient016,1,Diarrhea,Diarrhoea,No,Resolved,No,No,No,No,No,5,8,NA,NA,NA,56,Male,Hispanic,Former Smoker,Heavy,100 mg,28 days
+Study123,Patient017,1,Nausea,Nausea,No,Resolved,No,No,No,No,No,3,5,Cardiac,Arrhythmia,Arrhythmia,68,Female,White,Current Smoker,Light,150 mg,42 days
+Study123,Patient018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Respiratory,Emphysema,Emphysema,74,Male,Black,Former Smoker,Moderate,50 mg,21 days
+Study123,Patient019,1,Fatigue,Fatigue,No,Recovering,No,No,No,No,No,8,12,Endocrine,Osteoporosis,Osteoporosis,61,Female,Asian,Never Smoker,None,100 mg,28 days
+Study123,Patient020,1,Vomiting,Vomiting,No,Resolved,No,No,No,No,No,1,3,NA,NA,NA,59,Male,Hispanic,Current Smoker,Heavy,150 mg,42 days
+Study123,Patient001,1,Nausea,Nausea,No,Resolved,No,No,No,No,No,5,7,Cardiac,Hypertension,Hypertension,62,Female,White,Never Smoker,Light,100 mg,28 days
+Study123,Patient002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Respiratory,Asthma,Asthma,78,Male,Black,Former Smoker,None,150 mg,42 days
+Study123,Patient003,1,Fatigue,Fatigue,No,Recovering,No,No,No,No,No,12,18,Endocrine,Diabetes Mellitus,Diabetes Mellitus,65,Female,Asian,Never Smoker,Moderate,50 mg,21 days
+Study123,Patient004,1,Anemia,Anemia,Yes,Recovering,No,No,Yes,No,Yes,20,30,NA,NA,NA,70,Male,Hispanic,Current Smoker,Heavy,100 mg,28 days
+Study123,Patient005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cardiac,Atrial Fibrillation,Atrial Fibrillation,82,Female,White,Former Smoker,Light,150 mg,42 days
+Study123,Patient006,1,Vomiting,Vomiting,No,Resolved,No,No,No,No,No,8,10,Respiratory,COPD,Chronic Obstructive Pulmonary Disease,68,Male,Black,Current Smoker,Moderate,50 mg,21 days
+Study123,Patient007,1,Neutropenia,Neutropenia,Yes,Recovering,No,No,Yes,No,Yes,15,25,Endocrine,Hypothyroidism,Hypothyroidism,75,Female,Asian,Never Smoker,None,100 mg,28 days
+Study123,Patient008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,58,Male,Hispanic,Former Smoker,Heavy,150 mg,42 days
+Study123,Patient009,1,Diarrhea,Diarrhoea,No,Resolved,No,No,No,No,No,3,6,Cardiac,Coronary Artery Disease,Coronary Artery Disease,69,Female,White,Never Smoker,Light,50 mg,21 days
+Study123,Patient010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Respiratory,Bronchitis,Bronchitis,73,Male,Black,Former Smoker,None,100 mg,28 days
+Study123,Patient011,1,Fatigue,Fatigue,No,Recovering,No,No,No,No,No,10,14,Endocrine,Hyperthyroidism,Hyperthyroidism,60,Female,Asian,Never Smoker,Moderate,150 mg,42 days
+Study123,Patient012,1,Anemia,Anemia,Yes,Recovering,No,No,Yes,No,Yes,18,28,NA,NA,NA,72,Male,Hispanic,Current Smoker,Heavy,50 mg,21 days
+Study123,Patient013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cardiac,Heart Failure,Heart Failure,80,Female,White,Former Smoker,Light,100 mg,28 days
+Study123,Patient014,1,Vomiting,Vomiting,No,Resolved,No,No,No,No,No,6,9,Respiratory,Pneumonia,Pneumonia,66,Male,Black,Current Smoker,Moderate,150 mg,42 days
+Study123,Patient015,1,Neutropenia,Neutropenia,Yes,Recovering,No,No,Yes,No,Yes,13,23,Endocrine,Diabetes Insipidus,Diabetes Insipidus,77,Female,Asian,Never Smoker,None,50 mg,21 days
+Study123,Patient016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,55,Male,Hispanic,Former Smoker,Heavy,100 mg,28 days
